@@ -7,5 +7,7 @@ git clone https://github.com/rey-technicaltest/appointment-frontend.git
 
 cd appointment-frontend
 
+npm i
+
 npm run dev
 ```
